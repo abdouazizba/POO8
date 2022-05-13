@@ -1,0 +1,15 @@
+{
+    "name": "dabakhslaptop/poo8",
+    "autoload": {
+        "psr-4": {
+            "Dabakhslaptop\\Poo8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdouazizba",
+            "email": "mameabdouaziz.02@gmail.com"
+        }
+    ],
+    "require": {}
+}
